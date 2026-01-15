@@ -1,6 +1,6 @@
 # Project: TinyLLaMA Reconstruction
 
-**"From Tensors to TinyLLaMA"** 파이토치 기초부터 LLM 아키텍처까지, 단계별로 직접 구현하며 모델의 내부 메커니즘을 마스터하는 교육용 레포지토리입니다.
+**"From Tensors to TinyLLaMA"** 파이토치 기초부터 LLM 아키텍처까지, 단계별로 직접 구현하며 모델의 내부 메커니즘을 마스터하는 수련 기록용 레포지토리입니다.
 
 ---
 
@@ -16,7 +16,7 @@
 ### 🛠 Tech Stack
 - **Framework:** PyTorch, NumPy
 - **Models:** NanoGPT, llm.c, TinyLLaMA
-- **Environment:** MacBook Pro (MPS) & Kaggle (GPU)
+- **Environment:** M2 MacBook (Visual Studio Code) & Kaggle (GPU)
 
 ---
 
